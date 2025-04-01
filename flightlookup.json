@@ -1,0 +1,18 @@
+[
+    {
+        "parameter_rel_url" : "myfight/raw-data/airports.csv",
+        "parameter_sink_folder" : "airports",
+        "parameter_sink_file" : "airports.csv"
+    },
+    {
+    "parameter_rel_url" : "myfight/raw-data/flights.csv",
+        "parameter_sink_folder" : "flights",
+        "parameter_sink_file" : "flights.csv"
+    },
+    {
+    "parameter_rel_url" : "myfight/raw-data/planes.csv",
+        "parameter_sink_folder" : "planes",
+        "parameter_sink_file" : "planes.csv"
+    }
+
+]
